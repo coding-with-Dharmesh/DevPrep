@@ -76,7 +76,7 @@ It is architected for aspiring and senior software engineers preparing for techn
 ### Installation & Launch
 ```bash
 # Navigate to the project directory
-cd C:\Users\Win-11\.gemini\antigravity\scratch\devprep
+cd C:\Users\Win-11\scratch\devprep
 
 # Install dependencies
 npm install
